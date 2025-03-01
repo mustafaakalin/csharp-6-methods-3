@@ -1,0 +1,14 @@
+/home/mustafa/Documents/projects/csharp/csharp-6-methods-3/bin/Debug/net9.0/csharp-6-methods-3
+/home/mustafa/Documents/projects/csharp/csharp-6-methods-3/bin/Debug/net9.0/csharp-6-methods-3.deps.json
+/home/mustafa/Documents/projects/csharp/csharp-6-methods-3/bin/Debug/net9.0/csharp-6-methods-3.runtimeconfig.json
+/home/mustafa/Documents/projects/csharp/csharp-6-methods-3/bin/Debug/net9.0/csharp-6-methods-3.dll
+/home/mustafa/Documents/projects/csharp/csharp-6-methods-3/bin/Debug/net9.0/csharp-6-methods-3.pdb
+/home/mustafa/Documents/projects/csharp/csharp-6-methods-3/obj/Debug/net9.0/csharp-6-methods-3.GeneratedMSBuildEditorConfig.editorconfig
+/home/mustafa/Documents/projects/csharp/csharp-6-methods-3/obj/Debug/net9.0/csharp-6-methods-3.AssemblyInfoInputs.cache
+/home/mustafa/Documents/projects/csharp/csharp-6-methods-3/obj/Debug/net9.0/csharp-6-methods-3.AssemblyInfo.cs
+/home/mustafa/Documents/projects/csharp/csharp-6-methods-3/obj/Debug/net9.0/csharp-6-methods-3.csproj.CoreCompileInputs.cache
+/home/mustafa/Documents/projects/csharp/csharp-6-methods-3/obj/Debug/net9.0/csharp-6-methods-3.dll
+/home/mustafa/Documents/projects/csharp/csharp-6-methods-3/obj/Debug/net9.0/refint/csharp-6-methods-3.dll
+/home/mustafa/Documents/projects/csharp/csharp-6-methods-3/obj/Debug/net9.0/csharp-6-methods-3.pdb
+/home/mustafa/Documents/projects/csharp/csharp-6-methods-3/obj/Debug/net9.0/csharp-6-methods-3.genruntimeconfig.cache
+/home/mustafa/Documents/projects/csharp/csharp-6-methods-3/obj/Debug/net9.0/ref/csharp-6-methods-3.dll
